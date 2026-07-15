@@ -1,0 +1,7 @@
+[project]
+name = "ollama-fine-tunning"
+version = "0.1.0"
+description = "A starter project for experimenting with Ollama fine-tuning workflows"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
